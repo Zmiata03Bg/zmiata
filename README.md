@@ -1,2 +1,2 @@
-# zmiata
+# qb_core
 bulgaria
